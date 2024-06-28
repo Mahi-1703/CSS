@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale-0.1">
+<title>display property</title>
+</head>
+<body>
+<!--Display Property Inline= same,line,fill the size of content,cant set width & height,Inline block= same,fill the size of the content we can set width & height
+block= different line fill the size of entire wisth we can set height & width,none=this will hidethe element from the html-->
+<style>h4{background-color: red;display: block;}
+p{background-color: blueviolet;display: inline-block;height:100;width:100px;}
+span{background-color: aquamarine;display:inline;height:500px;}</style>
+<h4>Hello</h4>
+<p>NIELIT</p>
+<span>CHENNAI</span>
+</body>
+</html>
